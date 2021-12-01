@@ -1,0 +1,25 @@
+body{
+    color: rgb(75, 46, 112);
+    background-color: lightcyan;
+}
+
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+
+#camera{
+    border: 2px dashed rgb(53, 50, 50);
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color: rgb(170, 88, 115);
+}
+
+h3 {
+    font-family: 'Obti Sans Neue', sans-serif;
+                                                
+                                                
+}
